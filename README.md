@@ -1,1 +1,1 @@
-Website built with php, html, css and java script. This is my university coursework and is a website about a lap
+Website built with php, html, css and java script. This is my university coursework and is a ecommerence website for a laptop. (The laptop is not real and is not sellable). In order for the scripts to work you need to upload them to a server. This will allow the php doccuments to work. 
